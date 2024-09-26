@@ -1,6 +1,7 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Kip Chemweno, Computer Engineering Student (2024)
+Krish Shah
+kchemweno@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
